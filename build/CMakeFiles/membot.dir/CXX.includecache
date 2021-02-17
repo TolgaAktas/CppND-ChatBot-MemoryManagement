@@ -36,30 +36,6 @@ wx/wx.h
 memory
 -
 
-/home/workspace/chatbot/src/chatlogic.cpp
-fstream
--
-sstream
--
-iostream
--
-vector
--
-iterator
--
-tuple
--
-algorithm
--
-graphedge.h
-/home/workspace/chatbot/src/graphedge.h
-graphnode.h
-/home/workspace/chatbot/src/graphnode.h
-chatbot.h
-/home/workspace/chatbot/src/chatbot.h
-chatlogic.h
-/home/workspace/chatbot/src/chatlogic.h
-
 /home/workspace/chatbot/src/chatlogic.h
 vector
 -
@@ -68,12 +44,6 @@ string
 chatgui.h
 /home/workspace/chatbot/src/chatgui.h
 
-/home/workspace/chatbot/src/graphedge.cpp
-graphnode.h
-/home/workspace/chatbot/src/graphnode.h
-graphedge.h
-/home/workspace/chatbot/src/graphedge.h
-
 /home/workspace/chatbot/src/graphedge.h
 vector
 -
@@ -81,12 +51,6 @@ string
 -
 memory
 -
-
-/home/workspace/chatbot/src/graphnode.cpp
-graphedge.h
-/home/workspace/chatbot/src/graphedge.h
-graphnode.h
-/home/workspace/chatbot/src/graphnode.h
 
 /home/workspace/chatbot/src/graphnode.h
 vector
